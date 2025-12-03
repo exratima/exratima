@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="/favicon">
+    <link rel="icon" type="image/x-icon" href="/image.png">
     <title>Ex Ratima</title>
     <style>
         body {
@@ -35,7 +35,8 @@
 <body>
     <div class="container">
         <h1>Coming soon!</h1>
-        <p>We're working hard to bring you something amazing. Stay tuned!</p>
+        <p>Hi we're a band from nottingham</p>
+        <p>Follow us on <a href="https://www.youtube.com/@ExRatima"> Youtube</a></p>
     </div>
 </body>
 </html>
