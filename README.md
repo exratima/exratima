@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="/favicon">
     <title>Ex Ratima</title>
+</head>
+<body>
     <style>
         body {
             display: flex;
@@ -31,8 +33,6 @@
             color: #666;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <h1>Coming soon!</h1>
         <p>We're working hard to bring you something amazing. Stay tuned!</p>
